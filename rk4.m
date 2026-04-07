@@ -2,7 +2,7 @@
 function [t,w] = rk4(ti,tf,npts,y0,f)
 
 %--------------------------------------------------------------------------
-%
+% THIS IS NOT MY WORK. THIS FUNCTION WAS CREATED BY THE APPM DEPARTMENT AT CU BOULDER!
 % Input:
 %
 % ti   = initial value of independent variable
